@@ -44,3 +44,7 @@ If you don't have self-raising flour then plain flour and a teaspoon of baking p
 Scones are often best eaten while warm, or at least the same day, but can last a day or two, although they will start to get harder.
 
 Instead of rolling the mix into dough balls, you can put the mix on a chopping board, gently flatten out to about 3-5cm thick and use cookie cutters.
+
+## See also
+
+* [Cheese Scones](cheese-scones.md)
