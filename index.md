@@ -4,7 +4,8 @@ I've get asked for recipes from time-to-time. So, each time I do, I'll put it he
 
 # Baked foods
 
-* [Scones](baked/scones.md)
+* [Cheese Scones](baked/cheese-scones.md)
+* [Plain Scones](baked/scones.md)
 
 ## Meat dishes
 
