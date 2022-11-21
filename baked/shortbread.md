@@ -24,7 +24,7 @@ You will need:
 4. Knead the mixture together into a short, but not sticky, dough.
 5. Divide the mixture and shape into rounds about 1cm thick
 6. Place rounds on greased baking trays
-7. Bake at 160°C for about 45 minutes until the shortbread is a pale golder colour.
+7. Bake at 160°C for about 45 minutes until the shortbread is a pale golden colour.
 8. Cool before storing in an air tight container.
 
 ## Notes
