@@ -1,6 +1,6 @@
 # Granny's Shortbread
 
-This is my granny's shortbreak recipe. It was always a favourite of mine as a child and I would often rush to her shortbread tin any time we visited.
+This is my granny's shortbread recipe. It was always a favourite of mine as a child and I would often rush to her shortbread tin any time we visited.
 
 ## Before you start
 
