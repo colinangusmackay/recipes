@@ -37,11 +37,11 @@ You will need:
 
 ### Notes
 
-Full fat/whole milk is a must, it won't work otherwise.
+**Milk**: Full fat/whole milk is preferred, it makes it easier to work with.
 
-Butter can be salted or unsalted depending on taste. I tend to go for a unsalted or lightly salted butter. If you like salted caramel you might want to go for a more heavily salted butter.
+**Butter**: Butter can be salted or unsalted depending on taste. I tend to go for a unsalted or lightly salted butter. If you like salted caramel you might want to go for a more heavily salted butter.
 
-The wooden spoon can be replaced with anything that is suitable for use with a non-stick pan. Do not use metal.
+**Stirring**: The wooden spoon can be replaced with anything that is suitable for use with a non-stick pan. Do not use metal.
 
-You don't have to score lines into the tablet to aid cutting into blocks later on. If you don't, you'll get unevenly sized and shaped pieces of tablet which gives it a more home made feel to it. It's not so easy to package and post to friends.
+**Portioning**: You don't have to score lines into the tablet to aid cutting into blocks later on. If you don't, you'll get unevenly sized and shaped pieces of tablet which gives it a more home made feel to it. It's not so easy to package and post to friends.
 
