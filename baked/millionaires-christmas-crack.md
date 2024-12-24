@@ -10,7 +10,7 @@ What's it got to do with Christmas? No idea - Feel free to have this at any time
 
 You will need
 
-* Oven
+* Oven pre-heated to 150℃ (300℉)
 * A set of kitchen scales.
 * A baking tray (25x32cm - or about 800cm²)
 * Baking foil
@@ -27,10 +27,10 @@ Base:
 
 Caramel centre:
 * 275g Butter
-* 280g Sugar
+* 280g Soft brown sugar
 
 Topping:
-* 300g Cooking chocolate
+* 300g Cooking chocolate chips
 * 150g Cashews
 
 ## Instructions
@@ -41,7 +41,7 @@ Create the base
 3. Mix the Digestive biscuits and butter in a food mixer.
 4. Pour the mix into the foil lined baking tray.
 5. Pat down the mix until it covers the entire base of the tray and is realatively flat.
-6. Bake in the oven for about 15-20 minutes.
+6. Bake in the oven for about 10-15 minutes.
 
 While the base is baking, create the caramel centre
 1. Put the butter and sugar in a saucepan and heat, stiring occasionally with the wooden spoon.
@@ -61,7 +61,7 @@ Add the topping
 
 ## Notes
 
-* Boiling sugar is increadibly hot, ensure your saucepan is large enough that the mixture won't boil over.
+* Boiling sugar is increadibly hot, ensure your saucepan is large enough that the mixture won't boil over. (I didn't accidentally burn myself on molten sugar. Not me! Not at all 🙈)
 * You can get a mix of dark, milk and/or white cooking chocolate and spread them in lanes or swirls over the top so you get a mix of toppings.
-* Each portion is about 320 kcal.
+* Each 5x5cm portion is about 320 kcal.
 * You can replate the cashews with a more desirable topping if you prefer. Mini M&Ms work well if you prefer it even sweeter.
