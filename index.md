@@ -6,7 +6,7 @@ I've get asked for recipes from time-to-time. So, each time I do, I'll put it he
 
 * [Cheese Scones](baked/cheese-scones.md)
 * [Granny's Shortbread](baked/shortbread.md)
-* [Millionaire's Christmas Crack](millionaires-christmas-crack.md)
+* [Millionaire's Christmas Crack](baked/millionaires-christmas-crack.md)
 * [Millionaire's Cupcakes](baked/millionaires-cupcakes.md)
 * [Plain Scones](baked/scones.md)
 
