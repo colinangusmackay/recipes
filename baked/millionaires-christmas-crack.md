@@ -1,3 +1,5 @@
+# Millionaire's Christmas Crack
+
 This is a variant of the [Christmas Crack](https://www.youtube.com/shorts/BRQ7vVSw06o) recipe in B. Dylan Hollis's book [Baking Yesteryear](https://www.amazon.co.uk/Baking-Yesteryear-Recipes-1900s-1980s/dp/0744080045/ref=asc_df_0744080045).
 
 Why did I call it "Millionaire's"? This variant takes the original recipe and makes it closer to a Millonaire's Shortbread.
@@ -36,7 +38,7 @@ Topping:
 ## Instructions
 
 Create the base
-1. Preheat the oven to 150℃ (300℉)
+1. Preheat the oven to 150℃ (300℉).
 2. Line the baking tray with the foil.
 3. Mix the Digestive biscuits and butter in a food mixer.
 4. Pour the mix into the foil lined baking tray.
@@ -47,17 +49,17 @@ While the base is baking, create the caramel centre
 1. Put the butter and sugar in a saucepan and heat, stiring occasionally with the wooden spoon.
 2. Once the mixture starts to boil stop stirring and leave it to boil for 5 minutes. Once the time is up reduce the heat, but do not allow to cool or it will start to set.
 3. By this time the base should be ready.
-4. Remove the base from the oven and increase the temperature to 180℃ (350℉)
-5. Quickly pour the caramel sauce over the base and spread to the edges using the back of the wooden spoon. (Caution: The caramel mix will be very hot)
+4. Remove the base from the oven and increase the temperature to 180℃ (350℉).
+5. Quickly pour the caramel sauce over the base and spread to the edges using the back of the wooden spoon. (Caution: The caramel mix will be very hot.)
 6. Return to the over for a further 7 minutes.
 
 Add the topping
 1. While the second baking session it ongoing, crush/break-up the cashews into smaller pieces. They don't have to be evenly crushed, just enough to make a variety of sizes. You can reuse the food mix for this and pulse the motor so as not to overly break up the nuts.
 2. When the second baking session is complete remove from the oven and immediately scatter the choc chips evenly over the top.
 3. After a couple of minutes the heat from the base will have melted the chocolate making it easier to spread out with the back of a table spoon.
-4. Scatter the cashews over the top of the chocolate
+4. Scatter the cashews over the top of the chocolate.
 5. Allow to cool to room temperature and then in the fridge.
-6. Once cooled, remove from the fridge and cut in to squares (about 5x5cm - This should get you about 30 squares)
+6. Once cooled, remove from the fridge and cut in to squares (about 5x5cm - This should get you about 30 squares).
 
 ## Notes
 
