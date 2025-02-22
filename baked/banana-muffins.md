@@ -10,7 +10,7 @@ You will need:
 * a large mixing bowl
 * a spoon & fork
 * kitchen scales
-* 20 muffin cases, e.g. https://www.procook.co.uk/product/procook-silicone-large-muffin-cases-6-piece
+* 20 muffin cases, e.g. [ProCook Silicone Muffin Cases](https://www.procook.co.uk/product/procook-silicone-large-muffin-cases-6-piece)
 * baking tray.
 * an oven
 
