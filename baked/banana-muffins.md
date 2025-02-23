@@ -37,3 +37,5 @@ You will need:
 ## Notes
 
 At 50g mix per case, each muffin is about 150kcal.
+
+If you use salted butter, you may not wish to add extra salt to the mix.
