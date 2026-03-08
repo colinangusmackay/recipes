@@ -17,7 +17,8 @@ I've get asked for recipes from time-to-time. So, each time I do, I'll put it he
 
 ## Sauces
 
-* [Sweet and Sour](sauces/sweet-and-sour.md)
+* [Lychee Sweet and Sour](sauces/sweet-and-sour-lychee.md)
+* [Sweet and Sour with a fruit juice base](sauces/sweet-and-sour-fruit-juice-base.md)
 
 ## Sweets
 
