@@ -1,6 +1,6 @@
 # Martian Shortbread
 
-This is a variant on Millionaire's shortbread, but instead of a caramel centre it uses Mars Bars instead. This particular recipe is also a bit of a cheat because the base is not really shortbread - But it is easier to make if you're feeling lazy. If you want a property short bread base use [Granny's shortbread recipe](shortbread.md) for the base.
+This is a variant on Millionaire's shortbread, but instead of a caramel centre it uses Mars Bars instead. This particular recipe is also a bit of a cheat because the base is not really shortbread - But it is easier to make if you're feeling lazy. If you want a proper short bread base use [Granny's shortbread recipe](shortbread.md) for the base.
 
 ![Martian Shortbread as the chocolate is melting](martian-shortbread.jpg)
 This is the Martian Shortbread as the choc chips are partially smoothed out and still melting on the top layer. A mix of dark, milk and white choc chips were used in sections with some overlap.
